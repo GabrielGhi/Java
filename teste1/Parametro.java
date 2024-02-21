@@ -1,6 +1,5 @@
-public class Parametro {
-
-    public static void main (String[] args) {
+public class Parametro{
+    public static void main(String[] args) {
         int ini = Integer.parseInt(args[0]);
         int fim = Integer.parseInt(args[1]);
 
